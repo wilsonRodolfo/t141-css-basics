@@ -1,0 +1,18 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Box Message */
+.box-message {
+    border: 1px solid #000;
+    font-size: 1.1em;
+    width: 450px;
+    height: 75px;
+    margin: 10px;
+    padding-left: 75px;
+    line-height: 75px;
+}
