@@ -1,0 +1,19 @@
+info
+    background color: #d7eef6;
+    border color: #cee0e4;
+    font color: #3e5d6f;
+
+success
+    background color: #def0d8;
+    border color: #d9e5cf;
+    font color: #4e6841;
+
+warning
+    background color: #fbf8e5;
+    border color: #f4eddb;
+    font color: #7f743c;
+
+error
+    background color: #f2dedf;
+    border color: #e2d4d3;
+    font color: #8c433a;
