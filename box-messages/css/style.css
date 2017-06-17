@@ -15,4 +15,34 @@
     margin: 10px;
     padding-left: 75px;
     line-height: 75px;
+    background: no-repeat 20px center;
+}
+
+.info {
+    background-color: #d7eef6;
+    border-color: #cee0e4;
+    color: #3e5d6f;
+    background-image: url(images/icon-info.png);
+}
+
+.success {
+    background-color: #def0d8;
+    border-color: #d9e5cf;
+    color: #4e6841;
+    background-image: url(images/icon-success.png);
+}
+
+
+.warning {
+    background-color: #fbf8e5;
+    border-color: #f4eddb;
+    color: #7f743c;
+    background-image: url(images/icon-warning.png);
+}
+
+.error {
+    background-color: #f2dedf;
+    border-color: #e2d4d3;
+    color: #8c433a;
+    background-image: url(images/icon-error.png);
 }
