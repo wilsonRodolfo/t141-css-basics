@@ -16,6 +16,7 @@
     padding-left: 75px;
     line-height: 75px;
     background: no-repeat 20px center;
+    box-shadow: 1px 1px 5px #eee;
 }
 
 .info {
